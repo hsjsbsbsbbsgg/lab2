@@ -1,0 +1,77 @@
+body {
+    font-family: Arial;
+    background-color: #bcb9b9;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.menu a {
+    color: white;
+    margin: 10px;
+}
+
+.about {
+    text-align: center;
+    padding: 40px;
+}
+
+
+.Projects {
+    text-align: center;
+    padding: 40px;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.project {
+    background-color: white;
+    width: 200px;
+    padding: 20px;
+}
+
+.section {
+    text-align: center;
+    padding: 40px;
+}
+
+.section input {
+    display: block;
+    width: 300px;
+    margin: 10px auto;
+    padding: 8px;
+}
+
+.section textarea {
+    display: block;
+    width: 300px;
+    height: 70px;
+    padding: 8px;
+    margin: 10px auto;
+    
+}
+
+.section button {
+    display: block;
+    width: 320px;
+    padding: 8px;
+    background: #222;
+    color: white;
+    margin: 10px auto;
+
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
